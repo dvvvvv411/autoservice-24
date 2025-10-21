@@ -9,7 +9,7 @@ const Logo = () => {
       <img 
         src={autoservice24Logo}
         alt="Autoservice24 Logo"
-        className="h-16 w-auto transition-all duration-300 ease-in-out cursor-pointer hover:scale-105"
+        className="h-12 w-auto object-contain transition-all duration-300 ease-in-out cursor-pointer hover:scale-105"
         loading="eager"
         onClick={() => navigate('/')}
       />
