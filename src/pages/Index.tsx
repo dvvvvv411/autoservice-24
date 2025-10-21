@@ -522,15 +522,15 @@ const Index = () => {
                 <div className="flex items-start gap-3">
                   <Mail className="w-5 h-5 text-primary mt-0.5 flex-shrink-0" />
                   <div>
-                    <div className="text-white">info@carlogix.de</div>
+                    <div className="text-white">info@autoservice-24.de</div>
                     <div className="text-white/60 text-sm">{t('footer.contact.email.response')}</div>
                   </div>
                 </div>
                 <div className="flex items-start gap-3">
                   <MapPin className="w-5 h-5 text-primary mt-0.5 flex-shrink-0" />
                   <div>
-                    <div className="text-white">Beusselstr. 44 N-Q</div>
-                    <div className="text-white">10553 Berlin</div>
+                    <div className="text-white">Brunsbütteler Damm 117</div>
+                    <div className="text-white">13581 Berlin</div>
                     <div className="text-white/60 text-sm">{t('footer.contact.address')}</div>
                   </div>
                 </div>
