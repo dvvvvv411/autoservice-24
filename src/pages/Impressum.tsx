@@ -108,10 +108,9 @@ const Impressum = () => {
           <div>
             <h2 className="text-2xl font-semibold text-foreground mb-4">Angaben gemäß § 5 TMG</h2>
             <p className="text-muted-foreground">
-              Golze & Michel OHG<br />
-              Internationale Spediteure<br />
-              Beusselstr. 44 N-Q<br />
-              10553 Berlin<br />
+              Autoservice24 Berlin GmbH<br />
+              Brunsbütteler Damm 117<br />
+              13581 Berlin<br />
               Deutschland
             </p>
           </div>
@@ -120,20 +119,20 @@ const Impressum = () => {
             <h2 className="text-2xl font-semibold text-foreground mb-4">Kontakt</h2>
             <p className="text-muted-foreground">
               Telefon: 030 75420223<br />
-              E-Mail: info@carlogix.de
+              E-Mail: info@autoservice-24.de
             </p>
           </div>
 
           <div>
             <h2 className="text-2xl font-semibold text-foreground mb-4">Geschäftsführung</h2>
-            <p className="text-muted-foreground">Eugeniusz Rachuta</p>
+            <p className="text-muted-foreground">Dominique Brunet</p>
           </div>
 
           <div>
             <h2 className="text-2xl font-semibold text-foreground mb-4">Handelsregister</h2>
             <p className="text-muted-foreground">
               Amtsgericht Charlottenburg (Berlin)<br />
-              HRA 19920 B
+              HRB 205279 B
             </p>
           </div>
 
@@ -172,7 +171,7 @@ const Impressum = () => {
             <div className="lg:col-span-1">
               <Logo />
               <p className="text-white/80 mt-6 leading-relaxed">
-                Seit 1984 Ihr zuverlässiger Partner für professionelle Fahrzeugüberführungen in Deutschland und Europa.
+                Seit 2019 Ihr zuverlässiger Partner für professionelle Fahrzeugüberführungen in Deutschland und Europa.
               </p>
             </div>
             <div>
@@ -214,7 +213,7 @@ const Impressum = () => {
           <div className="mt-12 pt-8 border-t border-white/10">
             <div className="flex flex-col lg:flex-row justify-between items-center gap-6">
               <div className="flex flex-wrap justify-center lg:justify-start gap-6 text-sm">
-                <span className="text-white/60">© 2025 Golze & Michel OHG</span>
+                <span className="text-white/60">© 2025 Autoservice24 Berlin GmbH</span>
                 <Link to="/impressum" className="text-white/80 hover:text-primary transition-colors">Impressum</Link>
                 <Link to="/datenschutz" className="text-white/80 hover:text-primary transition-colors">Datenschutzerklärung</Link>
                 <Link to="/agb" className="text-white/80 hover:text-primary transition-colors">AGB</Link>

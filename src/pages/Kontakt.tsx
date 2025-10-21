@@ -194,7 +194,7 @@ const Kontakt = () => {
               </div>
               <h3 className="text-xl font-semibold text-foreground mb-4">{t('contact.email.title')}</h3>
               <div className="space-y-2">
-                <p className="text-lg font-medium text-primary">info@carlogix.de</p>
+                <p className="text-lg font-medium text-primary">info@autoservice-24.de</p>
                 <p className="text-muted-foreground">{t('contact.email.subtitle')}</p>
                 <div className="flex items-center justify-center gap-2 mt-4">
                   <CheckCircle className="w-4 h-4 text-green-500" />
@@ -210,8 +210,8 @@ const Kontakt = () => {
               </div>
               <h3 className="text-xl font-semibold text-foreground mb-4">{t('contact.location.title')}</h3>
               <div className="space-y-2">
-                <p className="font-medium text-foreground">Beusselstr. 44 N-Q</p>
-                <p className="font-medium text-foreground">10553 Berlin</p>
+                <p className="font-medium text-foreground">Brunsbütteler Damm 117</p>
+                <p className="font-medium text-foreground">13581 Berlin</p>
                 <p className="text-muted-foreground">{t('contact.location.country')}</p>
                 <div className="flex items-center justify-center gap-2 mt-4">
                   <CheckCircle className="w-4 h-4 text-green-500" />
@@ -335,7 +335,7 @@ const Kontakt = () => {
                 <Logo />
               </div>
               <p className="text-white/80 leading-relaxed mb-6">
-                Seit 1984 Ihr zuverlässiger Partner für professionelle Fahrzeugüberführungen 
+                Seit 2019 Ihr zuverlässiger Partner für professionelle Fahrzeugüberführungen 
                 in Deutschland und ganz Europa.
               </p>
               
@@ -343,7 +343,7 @@ const Kontakt = () => {
               <div className="space-y-3">
                 <div className="flex items-center gap-3">
                   <div className="w-2 h-2 bg-primary rounded-full"></div>
-                  <span className="text-sm text-white/80">Über 41 Jahre Erfahrung</span>
+                  <span className="text-sm text-white/80">Über 6 Jahre Erfahrung</span>
                 </div>
                 <div className="flex items-center gap-3">
                   <div className="w-2 h-2 bg-primary rounded-full"></div>
@@ -388,15 +388,15 @@ const Kontakt = () => {
                 <div className="flex items-start gap-3">
                   <Mail className="w-5 h-5 text-primary mt-0.5 flex-shrink-0" />
                   <div>
-                    <div className="text-white">info@carlogix.de</div>
+                    <div className="text-white">info@autoservice-24.de</div>
                     <div className="text-white/60 text-sm">Schnelle Antwort garantiert</div>
                   </div>
                 </div>
                 <div className="flex items-start gap-3">
                   <MapPin className="w-5 h-5 text-primary mt-0.5 flex-shrink-0" />
                   <div>
-                    <div className="text-white">Beusselstr. 44 N-Q</div>
-                    <div className="text-white">10553 Berlin</div>
+                    <div className="text-white">Brunsbütteler Damm 117</div>
+                    <div className="text-white">13581 Berlin</div>
                     <div className="text-white/60 text-sm">Deutschland</div>
                   </div>
                 </div>

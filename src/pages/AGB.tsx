@@ -108,7 +108,7 @@ const AGB = () => {
           <div>
             <h2 className="text-2xl font-semibold text-foreground mb-4">§ 1 Geltungsbereich</h2>
             <p className="text-muted-foreground mb-4">
-              Diese Allgemeinen Geschäftsbedingungen (AGB) gelten für alle Verträge über Fahrzeugüberführungen, Transport- und Speditionsleistungen zwischen der Golze & Michel OHG, Internationale Spediteure (nachfolgend "Auftragnehmer" genannt) und ihren Auftraggebern (nachfolgend "Auftraggeber" genannt).
+              Diese Allgemeinen Geschäftsbedingungen (AGB) gelten für alle Verträge über Fahrzeugüberführungen, Transport- und Speditionsleistungen zwischen der Autoservice24 Berlin GmbH (nachfolgend "Auftragnehmer" genannt) und ihren Auftraggebern (nachfolgend "Auftraggeber" genannt).
             </p>
             <p className="text-muted-foreground">
               Abweichende, entgegenstehende oder ergänzende Allgemeine Geschäftsbedingungen des Auftraggebers werden nicht Vertragsbestandteil, es sei denn, ihrer Geltung wird ausdrücklich schriftlich zugestimmt.
@@ -206,14 +206,13 @@ const AGB = () => {
           </div>
 
           <p className="text-muted-foreground mt-8">
-            <strong>Golze & Michel OHG</strong><br />
-            Internationale Spediteure<br />
-            Beusselstr. 44 N-Q<br />
-            10553 Berlin<br />
+            <strong>Autoservice24 Berlin GmbH</strong><br />
+            Brunsbütteler Damm 117<br />
+            13581 Berlin<br />
             Deutschland<br />
             <br />
             Telefon: 030 75420223<br />
-            E-Mail: info@carlogix.de<br />
+            E-Mail: info@autoservice-24.de<br />
             <br />
             
           </p>
@@ -227,7 +226,7 @@ const AGB = () => {
             <div className="lg:col-span-1">
               <Logo />
               <p className="text-white/80 mt-6 leading-relaxed">
-                Seit 1984 Ihr zuverlässiger Partner für professionelle Fahrzeugüberführungen in Deutschland und Europa.
+                Seit 2019 Ihr zuverlässiger Partner für professionelle Fahrzeugüberführungen in Deutschland und Europa.
               </p>
             </div>
             <div>
@@ -251,7 +250,7 @@ const AGB = () => {
                 <div className="flex items-start gap-3">
                   <Mail className="w-5 h-5 text-primary mt-0.5 flex-shrink-0" />
                   <div>
-                    <div className="text-white">info@carlogix.de</div>
+                    <div className="text-white">info@autoservice-24.de</div>
                     <div className="text-white/60 text-sm">Schnelle Antwort garantiert</div>
                   </div>
                 </div>
@@ -269,7 +268,7 @@ const AGB = () => {
           <div className="mt-12 pt-8 border-t border-white/10">
             <div className="flex flex-col lg:flex-row justify-between items-center gap-6">
               <div className="flex flex-wrap justify-center lg:justify-start gap-6 text-sm">
-                <span className="text-white/60">© 2025 Golze & Michel OHG</span>
+                <span className="text-white/60">© 2025 Autoservice24 Berlin GmbH</span>
                 <Link to="/impressum" className="text-white/80 hover:text-primary transition-colors">Impressum</Link>
                 <Link to="/datenschutz" className="text-white/80 hover:text-primary transition-colors">Datenschutzerklärung</Link>
                 <Link to="/agb" className="text-white/80 hover:text-primary transition-colors">AGB</Link>

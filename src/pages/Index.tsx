@@ -347,8 +347,8 @@ const Index = () => {
             <div className="space-y-8 animate-fade-in-up h-full flex flex-col justify-between" style={{ animationDelay: '0.2s' }}>
               {/* Company Description */}
               <div className="bg-white/5 backdrop-blur-sm border border-white/10 rounded-2xl p-8">
-                <p className="text-lg text-white/90 leading-relaxed mb-6">
-                  <strong className="text-white">CarLogix</strong> – {t('company.description')}
+                <p className="text-lg text-muted-foreground leading-relaxed mb-6">
+                  <strong className="text-white">Autoservice24</strong> – {t('company.description')}
                 </p>
                 
                 <div className="grid grid-cols-3 gap-4 text-center">

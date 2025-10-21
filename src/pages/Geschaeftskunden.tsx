@@ -418,15 +418,15 @@ const Geschaeftskunden = () => {
                 <div className="flex items-start gap-3">
                   <Mail className="w-5 h-5 text-primary mt-0.5 flex-shrink-0" />
                   <div>
-                    <div className="text-white">info@carlogix.de</div>
+                    <div className="text-white">info@autoservice-24.de</div>
                     <div className="text-white/60 text-sm">Schnelle Antwort garantiert</div>
                   </div>
                 </div>
                 <div className="flex items-start gap-3">
                   <MapPin className="w-5 h-5 text-primary mt-0.5 flex-shrink-0" />
                   <div>
-                    <div className="text-white">Beusselstr. 44 N-Q</div>
-                    <div className="text-white">10553 Berlin</div>
+                    <div className="text-white">Brunsbütteler Damm 117</div>
+                    <div className="text-white">13581 Berlin</div>
                     <div className="text-white/60 text-sm">Deutschland</div>
                   </div>
                 </div>
@@ -485,7 +485,7 @@ const Geschaeftskunden = () => {
           <div className="pt-8 border-t border-white/10">
             <div className="flex flex-col md:flex-row justify-between items-center gap-4">
               <div className="text-white/60 text-sm">
-                © 2025 Golze & Michel OHG. Alle Rechte vorbehalten.
+                © 2025 Autoservice24 Berlin GmbH. Alle Rechte vorbehalten.
               </div>
               <div className="flex gap-6 text-sm">
                 <Link to="/datenschutz" className="text-white/60 hover:text-primary transition-colors">Datenschutz</Link>

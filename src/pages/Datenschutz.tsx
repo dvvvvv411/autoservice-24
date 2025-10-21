@@ -109,13 +109,12 @@ const Datenschutz = () => {
             <h2 className="text-2xl font-semibold text-foreground mb-4">1. Verantwortlicher</h2>
             <p className="text-muted-foreground">
               Verantwortlicher für die Datenverarbeitung auf dieser Website ist:<br /><br />
-              Golze & Michel OHG<br />
-              Internationale Spediteure<br />
-              Beusselstr. 44 N-Q<br />
-              10553 Berlin<br />
+              Autoservice24 Berlin GmbH<br />
+              Brunsbütteler Damm 117<br />
+              13581 Berlin<br />
               Deutschland<br /><br />
-              Geschäftsführer: Eugeniusz Rachuta<br />
-              E-Mail: info@carlogix.de
+              Geschäftsführer: Dominique Brunet<br />
+              E-Mail: info@autoservice-24.de
             </p>
           </div>
 
@@ -207,7 +206,7 @@ const Datenschutz = () => {
             <div className="lg:col-span-1">
               <Logo />
               <p className="text-white/80 mt-6 leading-relaxed">
-                Seit 1984 Ihr zuverlässiger Partner für professionelle Fahrzeugüberführungen in Deutschland und Europa.
+                Seit 2019 Ihr zuverlässiger Partner für professionelle Fahrzeugüberführungen in Deutschland und Europa.
               </p>
             </div>
             <div>
@@ -231,7 +230,7 @@ const Datenschutz = () => {
                 <div className="flex items-start gap-3">
                   <Mail className="w-5 h-5 text-primary mt-0.5 flex-shrink-0" />
                   <div>
-                    <div className="text-white">info@carlogix.de</div>
+                    <div className="text-white">info@autoservice-24.de</div>
                     <div className="text-white/60 text-sm">Schnelle Antwort garantiert</div>
                   </div>
                 </div>
@@ -249,7 +248,7 @@ const Datenschutz = () => {
           <div className="mt-12 pt-8 border-t border-white/10">
             <div className="flex flex-col lg:flex-row justify-between items-center gap-6">
               <div className="flex flex-wrap justify-center lg:justify-start gap-6 text-sm">
-                <span className="text-white/60">© 2025 Golze & Michel OHG</span>
+                <span className="text-white/60">© 2025 Autoservice24 Berlin GmbH</span>
                 <Link to="/impressum" className="text-white/80 hover:text-primary transition-colors">Impressum</Link>
                 <Link to="/datenschutz" className="text-white/80 hover:text-primary transition-colors">Datenschutzerklärung</Link>
                 <Link to="/agb" className="text-white/80 hover:text-primary transition-colors">AGB</Link>
