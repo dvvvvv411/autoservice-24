@@ -47,7 +47,7 @@ const Impressum = () => {
               <LanguageSelector />
               <div className="bg-primary text-primary-foreground px-4 py-2 rounded-lg font-semibold">
                 <Phone className="w-4 h-4 inline mr-2" />
-                030 75420223
+                030 75435567
               </div>
             </div>
             <button 
@@ -76,7 +76,7 @@ const Impressum = () => {
                   <div className="pt-4 border-t border-white/10">
                     <a href="tel:+49405131580" className="flex items-center justify-center bg-primary text-primary-foreground px-6 py-4 rounded-lg font-semibold text-lg">
                       <Phone className="w-5 h-5 mr-3" />
-                      030 75420223
+                      030 75435567
                     </a>
                   </div>
                 </div>
@@ -118,7 +118,7 @@ const Impressum = () => {
           <div>
             <h2 className="text-2xl font-semibold text-foreground mb-4">Kontakt</h2>
             <p className="text-muted-foreground">
-              Telefon: 030 75420223<br />
+              Telefon: 030 75435567<br />
               E-Mail: info@autoservice-24.de
             </p>
           </div>
@@ -188,7 +188,7 @@ const Impressum = () => {
                 <div className="flex items-start gap-3">
                   <Phone className="w-5 h-5 text-primary mt-0.5 flex-shrink-0" />
                   <div>
-                    <div className="text-white font-medium">030 75420223</div>
+                    <div className="text-white font-medium">030 75435567</div>
                     <div className="text-white/60 text-sm">Hotline 8:00 - 18:00</div>
                   </div>
                 </div>
